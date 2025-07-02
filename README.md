@@ -9,3 +9,5 @@ Data found on global countries geometry.
 
 The source:
 https://www.naturalearthdata.com/downloads/
+
+Using data on global country geometries and energy statistics, conducted preliminary analysis on electricity consumption, greenhouse gas emissions, and renewable energy adoption across countries from 1990 to 2021. Aimed to identify patterns and insights to support energy policy and environmental sustainability decisions.
