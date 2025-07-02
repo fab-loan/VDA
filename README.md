@@ -1,5 +1,5 @@
 # Visual Data Analytics 
-Used a wide range of graph types for Visual Data Analytics project on Global Energy. 
+Used a wide range of graph types for a Visual Data Analytics project on Global Energy. 
 - **EDA** 
 - **Choropleth Maps**
 - **Data Visualisation**
